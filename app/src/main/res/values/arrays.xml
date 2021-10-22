@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>ESPEJO</item>
+        <item>CAFE</item>
+        <item>COMPUTADORA</item>
+        <item>ESPUMA</item>
+        <item>TELEFONO</item>
+        <item>BOTELLA</item>
+        <item>LAMPARA</item>
+        <item>CAMA</item>
+        <item>SILLA</item>
+        <item>MESA</item>
+        <item>TERMO</item>
+        <item>FLORES</item>
+        <item>TECLADO</item>
+        <item>CUADRO</item>
+        <item>LAPICERA</item>
+        <item>TIJERA</item>
+        <item>COCODRILO</item>
+
+
+    </string-array>
+</resources>
